@@ -1,2 +1,2 @@
 Hello Git
-Learning Git commands
+Learning Git command
