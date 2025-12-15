@@ -1,1 +1,2 @@
-This is my page
+Hello Git
+Learning Git commands
